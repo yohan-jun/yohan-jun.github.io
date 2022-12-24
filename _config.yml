@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Yohan Jun, Ph.D."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yohan Jun"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Research Fellow at Martinos Center for Biodmedical Engineering and Harvard Medcial School"
+url                      : https://yohan-jun.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "yohan-jun/yohan-jun.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -90,9 +90,14 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : Yohan Jun
   links: # An array of links to social media profiles
+    - "https://github.com/yohan-jun"
+    - "https://scholar.google.com/citations?user=rSlCtLYAAAAJ&hl=en"
+    - "https://www.semanticscholar.org/author/Yohan-Jun/10750431"
+    - "https://orcid.org/0000-0003-4787-4760"
+    - "https://dblp.org/pid/226/3974.html"
 
 # Analytics
 analytics:
@@ -104,10 +109,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yohan Jun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Research Fellow at Martinos Center for Biodmedical Engineering and Harvard Medcial School"
+  location         : "Boston, MA"
   email            :
   links:
     - label: "Email"
@@ -124,7 +129,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/yohan-jun"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=rSlCtLYAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-card"
+      url: "https://orcid.org/0000-0003-4787-4760"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +151,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/yohan-jun"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
