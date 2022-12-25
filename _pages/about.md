@@ -19,24 +19,24 @@ I'm a postdoctoral research fellow at the [Athinoula A. Martinos Center for Biom
 
 ## Research Experience
 * **Research Fellow** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**.
-    * **Mar. 2022 - Now**
+    * **(Mar. 2022 - Now)**
     * Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
-    * Accelerating Quantitative MRI
-    * Rapid and Motion-Robust Fetal and Pediatric Imaging
+    1. Accelerating Quantitative MRI
+    1. Rapid and Motion-Robust Fetal and Pediatric Imaging
 <br/><br/>
 * **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**
-    * **Jan. 2016 - Feb. 2022**
+    * **(Jan. 2016 - Feb. 2022)**
     * Advisor: Prof. Dosik Hwang
-    * Accelerating MR Imaging with Deep Learning Techniques
-    * Computer-aided Diagnosis (CAD) for Brain Tumors
-    * MRI Applications
+    1. Accelerating MR Imaging with Deep Learning Techniques
+    1. Computer-aided Diagnosis (CAD) for Brain Tumors
+    1. MRI Applications
 <br/><br/>
 * **Intership** at **Philips Korea**
-    * **Oct. 2017 - Dec. 2017**
+    * **(Oct. 2017 - Dec. 2017)**
     * DFI Project Intern
 <br/><br/>
 * **Philips Korea & Gyrotools**
-    * **Sep. 2017**
+    * **(Sep. 2017)**
     * Philips Pulse Programming Course
 
 ## Teaching Experience
@@ -71,8 +71,8 @@ I'm a postdoctoral research fellow at the [Athinoula A. Martinos Center for Biom
 * (2017) **ISMRM Summa Cum Laude**, The ISMRM 25th Annual Meeting
 * (2017) **Grand Prize**, Yonsei Junior Convergence Science
 
-## Schoarship
-* (2023) **ISMRM Trainee Stipend**, ISMRM Workshop on Data Sampling and Image Reconstruction (Scheduled)
+## Scholarship
+* (2023) **ISMRM Trainee Stipend**, ISMRM Workshop on Data Sampling and Image Reconstruction
 * (2021) **Dissertation Fellowship**, Graduate Students Idea Incubation Fund, Yonsei University
 * (2021) **Academy Research Fellowship**, Graduate Students Idea Incubation Fund, Yonsei University
 * (2021) **Best Paper Award Scholarship**, Graduate Student Paper Award, Yonsei University
