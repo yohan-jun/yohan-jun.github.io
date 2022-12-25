@@ -9,12 +9,12 @@ toc_label: "Publication Type"
 
 You can also find my latest articles on my [Google Scholar](https://scholar.google.com/citations?user=rSlCtLYAAAAJ&hl=en).
 
-
 ## Preprints
+
 1. H Shin, H Kim, S Kim, **Y Jun**, T Eo, D Hwang. [COSMOS: Cross-Modality Unsupervised Domain Adaptation for 3D Medical Image Segmentation based on Target-aware Domain Translation and Iterative Self-Training](https://arxiv.org/abs/2203.16557). *arXiv preprint arXiv:2203.16557*, 2022.
 
-
 ## Journal Articles
+
 1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, **Y Jun**, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
 1. MJ Muckley\*, B Riemenschneider\*, ..., **Y Jun**, H Shin, D Hwang, ..., Florian Knoll. [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856), *IEEE Transactions on Medical Imaging*, 40(9):2306-2317, 2021.
 1. **Y Jun**, H Shin, T Eo, T Kim, D Hwang. [Deep model-based magnetic resonance parameter mapping network (DOPAMINE) for fast T1 mapping using variable flip angle method](https://doi.org/10.1016/j.media.2021.102017), *Medical Image Analysis*, 70:102017, 2021.
@@ -27,14 +27,14 @@ You can also find my latest articles on my [Google Scholar](https://scholar.goog
 1. T Eo, **Y Jun**, T Kim, J Jang, HJ Lee, D Hwang. [KIKI-net: cross-domain convolutional neural networks for reconstructing undersampled magnetic resonance images](https://doi.org/10.1002/mrm.27201), *Magnetic Resonance in Medicine*, 80(5):2188-2201, 2018.
 1. T Eo, T Kim, **Y Jun**, H Lee, SS Ahn, DH Kim, D Hwang. [High-SNR multiple T2 (*)-contrast magnetic resonance imaging using a robust denoising method based on tissue characteristics](https://doi.org/10.1002/jmri.25477), *Journal of Magnetic Resonance Imaging*, 45(6):1835-1845, 2017.
 
-
 ## Conference Papers
+
 1. PM Johnson, ..., H Shin, **Y Jun**, T Eo, S Kim, T Kim, D Hwang, ..., F Knoll. [Evaluation of the Robustness of Learned MR Image Reconstruction to Systematic Deviations Between Training and Test Data for the Models from the fastMRI Challenge](https://doi.org/10.1007/978-3-030-88552-6_3), In *International Workshop on Machine Learning for Medical Image Reconstruction (MLMIR)*, pp. 25-34, 2021.
 1. **Y Jun**, H Shin, T Eo, D Hwang. [Joint Deep Model-based MR Image and Coil Sensitivity Reconstruction Network (Joint-ICNet) for Fast MRI](https://doi.org/10.1109/CVPR46437.2021.00523), In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, pp. 5266-5275, 2021.
 1. T Eo, H Shin, T Kim, **Y Jun**, D Hwang. [Translation of 1D Inverse Fourier Transform of K-space to an Image Based on Deep Learning for Accelerating Magnetic Resonance Imaging](https://doi.org/10.1007/978-3-030-00928-1_28), In *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, pp. 241-249, 2018.
 
-
 ## Conference Abstracts
+
 1. **Y Jun**, Y Arefeen, J Cho, X Wang, M Gee, B Gagoski, B Bilgic. Deep Subspace Reconstruction with Zero-Shot Learning for Multiparametric Quantitative MRI. In *International Society for Magnetic Resonance in Medicine (ISMRM) Workshop Data Sampling and Image Reconstruction*, 2023. ***[Oral Presentation]***
 1. **Y Jun\***, YW Park\*, H Shin, Y Shin, JR Lee, K Han, SM Lim, SK Lee, SS Ahn, D Hwang. [Interpretable Meningioma Grading and Segmentation with Multiparametric Deep Learning](https://archive.ismrm.org/2022/3064.html), In *International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting*, pp. 3064, 2022.
 1. G Son, T Eo, **Y Jun**, H Shin, D Hwang. [Joint Generation of Multi-contrast Magnetic Resonance Images and Segmentation Map Using StyleGAN2-based Generative Network](https://archive.ismrm.org/2022/0102.html), In *International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting*, pp. 0102, 2022. ***[Oral Presentation]***
