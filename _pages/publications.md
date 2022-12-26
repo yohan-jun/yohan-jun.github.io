@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "Publication Type"
 ---
 
-You can also find my latest articles on my [Google Scholar](https://scholar.google.com/citations?user=rSlCtLYAAAAJ&hl=en).
+You can find my latest articles on my [Google Scholar](https://scholar.google.com/citations?user=rSlCtLYAAAAJ&hl=en).
 
 ## Preprints
 

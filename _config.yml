@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Yohan Jun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Research Fellow<br>Martinos Center for Biodmedical Engineering and Harvard Medcial School"
   location         : "Boston, MA"
   email            :
