@@ -15,7 +15,7 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Journal Articles
 
-1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, **Y Jun**, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
+1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, <ins>**Y Jun**<ins>, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
 1. MJ Muckley\*, B Riemenschneider\*, ..., **Y Jun**, H Shin, D Hwang, ..., Florian Knoll. [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856), *IEEE Transactions on Medical Imaging*, 40(9):2306-2317, 2021.
 1. **Y Jun**, H Shin, T Eo, T Kim, D Hwang. [Deep model-based magnetic resonance parameter mapping network (DOPAMINE) for fast T1 mapping using variable flip angle method](https://doi.org/10.1016/j.media.2021.102017), *Medical Image Analysis*, 70:102017, 2021.
 1. YW Park\*, **Y Jun\***, Y Lee, K Han, C An, SS Ahn, D Hwang, SK Lee. [Robust performance of deep learning for automatic detection and segmentation of brain metastases using three-dimensional black-blood and three-dimensional gradient echo imaging](https://doi.org/10.1007/s00330-021-07783-3), *European Radiology*, 31:6686-6695, 2021.
@@ -25,7 +25,7 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 1. T Kim, G Kim, H Kim, HJ Yoon, T Kim, **Y Jun**, TH Shin, S Kang, J Cheon, D Hwang, BW Min, W Shim. [Megahertz-wave-transmitting conducting polymer electrode for device-to-device integration](https://doi.org/10.1038/s41467-019-08552-z), *Nature Communications*, 10:653, 2019.
 1. **Y Jun**, T Eo, T Kim, H Shin, D Hwang, SH Bae, YW Park, HJ Lee, BW Choi, SS Ahn. [Deep-learned 3D black-blood imaging using automatic labelling technique and 3D convolutional neural networks for detecting metastatic brain tumors](https://doi.org/10.1038/s41598-018-27742-1), *Scientific Reports*, 8:9450, 2018.
 1. T Eo, **Y Jun**, T Kim, J Jang, HJ Lee, D Hwang. [KIKI-net: cross-domain convolutional neural networks for reconstructing undersampled magnetic resonance images](https://doi.org/10.1002/mrm.27201), *Magnetic Resonance in Medicine*, 80(5):2188-2201, 2018.
-1. T Eo, T Kim, **Y Jun**, H Lee, SS Ahn, DH Kim, D Hwang. [High-SNR multiple T2 (*)-contrast magnetic resonance imaging using a robust denoising method based on tissue characteristics](https://doi.org/10.1002/jmri.25477), *Journal of Magnetic Resonance Imaging*, 45(6):1835-1845, 2017.
+1. T Eo, T Kim, **Y Jun**, H Lee, SS Ahn, DH Kim, D Hwang. [High-SNR multiple T2(\*)-contrast magnetic resonance imaging using a robust denoising method based on tissue characteristics](https://doi.org/10.1002/jmri.25477), *Journal of Magnetic Resonance Imaging*, 45(6):1835-1845, 2017.
 
 ## Conference Papers
 
