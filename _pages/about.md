@@ -1,6 +1,6 @@
 ---
 title: "Biography"
-layout: single
+layout: publication
 permalink: /about/
 toc: true
 toc_sticky: true
