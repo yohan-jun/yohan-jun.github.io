@@ -15,7 +15,7 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Journal Articles
 
-1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, <ins>**Y Jun**<ins>, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
+1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, <ins>**Y Jun**</ins>, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
 1. MJ Muckley\*, B Riemenschneider\*, ..., **Y Jun**, H Shin, D Hwang, ..., Florian Knoll. [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856), *IEEE Transactions on Medical Imaging*, 40(9):2306-2317, 2021.
 1. **Y Jun**, H Shin, T Eo, T Kim, D Hwang. [Deep model-based magnetic resonance parameter mapping network (DOPAMINE) for fast T1 mapping using variable flip angle method](https://doi.org/10.1016/j.media.2021.102017), *Medical Image Analysis*, 70:102017, 2021.
 1. YW Park\*, **Y Jun\***, Y Lee, K Han, C An, SS Ahn, D Hwang, SK Lee. [Robust performance of deep learning for automatic detection and segmentation of brain metastases using three-dimensional black-blood and three-dimensional gradient echo imaging](https://doi.org/10.1007/s00330-021-07783-3), *European Radiology*, 31:6686-6695, 2021.
