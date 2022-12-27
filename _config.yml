@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "94xG2LDiVTuZ8odYVA-XgYixKJhcXhiH8v3QkcuFIf0"
+google_site_verification : 94xG2LDiVTuZ8odYVA-XgYixKJhcXhiH8v3QkcuFIf0
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -102,9 +102,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-FHC5G27J97"
+    tracking_id          : G-FHC5G27J97
     anonymize_ip         : # true, false (default)
 
 
