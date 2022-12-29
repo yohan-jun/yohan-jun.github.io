@@ -106,7 +106,6 @@ analytics:
   google:
     tracking_id          : "G-6MZY7YEZYT"
     anonymize_ip         : false # true, false (default)
-    cookie_settings      : "SameSite=None;Secure"
 
 
 # Site Author
