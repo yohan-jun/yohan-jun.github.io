@@ -15,6 +15,7 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Journal Articles
 
+1. <ins>**Y Jun\***</ins>, YW Park\*, H Shin\*, Y Shin, JR Lee, K Han, SS Ahn, SM Lim, D Hwang, SK Lee. [Intelligent Noninvasive Meningioma Grading with a Fully Automatic Segmentation using Interpretable Multiparametric Deep Learning](), *European Radiology*, In Press, 2023.
 1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, <ins>**Y Jun**</ins>, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
 1. MJ Muckley\*, B Riemenschneider\*, ..., <ins>**Y Jun**</ins>, H Shin, D Hwang, ..., Florian Knoll. [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856), *IEEE Transactions on Medical Imaging*, 40(9):2306-2317, 2021.
 1. <ins>**Y Jun**</ins>, H Shin, T Eo, T Kim, D Hwang. [Deep model-based magnetic resonance parameter mapping network (DOPAMINE) for fast T1 mapping using variable flip angle method](https://doi.org/10.1016/j.media.2021.102017), *Medical Image Analysis*, 70:102017, 2021.
