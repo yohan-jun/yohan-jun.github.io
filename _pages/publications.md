@@ -11,7 +11,10 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Preprints
 
+1. <ins>**Y Jun**</ins>, J Cho, X Wang, M Gee, PE Grant, B Bilgic\*, B Gagoski\*. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS](https://arxiv.org/abs/2302.14240). *arXiv preprint arXiv:2302.14240*, 2023.
 1. H Shin, H Kim, S Kim, <ins>**Y Jun**</ins>, T Eo, D Hwang. [COSMOS: Cross-Modality Unsupervised Domain Adaptation for 3D Medical Image Segmentation based on Target-aware Domain Translation and Iterative Self-Training](https://arxiv.org/abs/2203.16557). *arXiv preprint arXiv:2203.16557*, 2022.
+1. H Shin, H Kim, S Kim, <ins>**Y Jun**</ins>, T Eo, D Hwang. [Self-Training Based Unsupervised Cross-Modality Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation](https://arxiv.org/abs/2109.10674). *arXiv preprint arXiv:2109.10674*, 2021.
+1. MJ Muckley\*, B Riemenschneider\*, ..., <ins>**Y Jun**</ins>, H Shin, D Hwang, ..., Florian Knoll. [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://arxiv.org/abs/2012.06318). *arXiv preprint arXiv:2012.06318*, 2020.
 
 ## Journal Articles
 
