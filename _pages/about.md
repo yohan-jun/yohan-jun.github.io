@@ -55,6 +55,7 @@ I'm a postdoctoral research fellow at the [Athinoula A. Martinos Center for Biom
     * Teaching Assistant
 
 ## Honors & Awards
+* (2023) **ISMRM Summa Cum Laude**, The ISMRM 31st Annual Meeting
 * (2021) **1st Rank**, Cross-Modality Domain Adaptation for Medical Image Segmentation (crossMoDA-2021 challenge)
 * (2021) **ISMRM Magna Cum Laude (1)**, The ISMRM 29th Annual Meeting
 * (2021) **ISMRM Magna Cum Laude (2)**, The ISMRM 29th Annual Meeting
