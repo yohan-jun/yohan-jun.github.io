@@ -19,7 +19,7 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Journal Articles
 
-1. H Shin\*, JE Park\*, <ins>**Y Jun\***</ins>, T Eo, J Lee, JE Kim, DH Lee, HH Moon, SI Park, S Kim, D Hwang, HS Kim. [Deep learning referral suggestion and tumour discrimination using explainable artificial intelligence applied to multiparametric MRI](https://doi.org/10.1007/s00330-023-09710-0). *European Radiology*, 2023.
+1. H Shin\*, JE Park\*, <ins>**Y Jun**</ins>, T Eo, J Lee, JE Kim, DH Lee, HH Moon, SI Park, S Kim, D Hwang, HS Kim. [Deep learning referral suggestion and tumour discrimination using explainable artificial intelligence applied to multiparametric MRI](https://doi.org/10.1007/s00330-023-09710-0). *European Radiology*, 2023.
 1. <ins>**Y Jun\***</ins>, YW Park\*, H Shin\*, Y Shin, JR Lee, K Han, SS Ahn, SM Lim, D Hwang, SK Lee. [Intelligent Noninvasive Meningioma Grading with a Fully Automatic Segmentation using Interpretable Multiparametric Deep Learning](https://doi.org/10.1007/s00330-023-09590-4). *European Radiology*, 2023.
 1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, <ins>**Y Jun**</ins>, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
 1. MJ Muckley\*, B Riemenschneider\*, ..., <ins>**Y Jun**</ins>, H Shin, D Hwang, ..., Florian Knoll. [Results of the 2020 fastMRI Challenge for Machine Learning MR Image Reconstruction](https://doi.org/10.1109/TMI.2021.3075856), *IEEE Transactions on Medical Imaging*, 40(9):2306-2317, 2021.
