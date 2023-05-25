@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: "Teaching"
 layout: single
 permalink: /teaching/
 toc: true
@@ -7,6 +7,7 @@ toc_sticky: true
 toc_label: "Teaching"
 ---
 
+## Teaching Experience
 * **Introduction Artificial Intelligence** (Fall 2021)\
 -&nbsp;Guest Lecturer, Teaching Assistant\
 -&nbsp;Presented a lecture on principles of deep learning and convolutional neural networks
