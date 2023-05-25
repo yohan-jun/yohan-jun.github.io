@@ -113,10 +113,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.8em; // mod
-  }
-  ol {
-    font-size: $type-size-6;
+    font-size: $type-size-6; // mod (default: 1em)
   }
 
   /* paragraph indents */
