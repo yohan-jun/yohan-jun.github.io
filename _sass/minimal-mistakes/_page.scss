@@ -117,17 +117,17 @@ body {
   }
 
   /* paragraph indents */
-  p {
-    margin: 0 0 $indent-var;
+  // p {
+  //   margin: 0 0 $indent-var;
 
-    /* sibling indentation*/
-    // @if $paragraph-indent == true {
-    //   & + p {
-    //     text-indent: $indent-var;
-    //     margin-top: -($indent-var);
-    //   }
-    // }
-  }
+  //   /* sibling indentation*/
+  //   @if $paragraph-indent == true {
+  //     & + p {
+  //       text-indent: $indent-var;
+  //       margin-top: -($indent-var);
+  //     }
+  //   }
+  // }
 
   a:not(.btn) {
     &:hover {
