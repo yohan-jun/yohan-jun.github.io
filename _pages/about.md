@@ -15,44 +15,34 @@ I'm a postdoctoral research fellow at the [Athinoula A. Martinos Center for Biom
 -&nbsp;Scholarship: Brain Korea 21 Plus Outstanding Student Fellow Scholarship of Korea Research Foundation
 <br/><br/>
 * **B.S.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2016
-    * Scholarship: National Scholarship for Science & Engineering of Korea Student Aid Foundation
+-&nbsp;Scholarship: National Scholarship for Science & Engineering of Korea Student Aid Foundation
 
 ## Research Experience
-* **Research Fellow** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**.
-    * (Mar. 2022 - Now)
-    * Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
-        * Accelerating Quantitative MRI
-        * Rapid and Motion-Robust Fetal and Pediatric Imaging
+* **Research Fellow** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Mar. 2022 - Now)
+-&nbsp;Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
 <br/><br/>
-* **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**
-    * (Jan. 2016 - Feb. 2022)
-    * Advisor: Prof. Dosik Hwang
-        * Accelerating MR Imaging with Deep Learning Techniques
-        * Computer-aided Diagnosis (CAD) for Brain Tumors
-        * MRI Applications
+* **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**, (Jan. 2016 - Feb. 2022)
+-&nbsp;Advisor: Prof. Dosik Hwang
 <br/><br/>
-* **Intership** at **Philips Korea**
-    * (Oct. 2017 - Dec. 2017)
-    * DFI Project Intern
+* **Intership** at **Philips Korea**, (Oct. 2017 - Dec. 2017)
 <br/><br/>
-* **Philips Korea & Gyrotools**
-    * (Sep. 2017)
-    * Philips Pulse Programming Course
+* **Philips Korea & Gyrotools**, (Sep. 2017)
+-&nbsp;Philips Pulse Programming Course
 
 ## Teaching Experience
 * **Introduction Artificial Intelligence** (Fall 2021)
-    * Guest Lecturer, Teaching Assistant
-    * Presented a lecture on principles of deep learning and convolutional neural networks
+-&nbsp;Guest Lecturer, Teaching Assistant
+-&nbsp;Presented a lecture on principles of deep learning and convolutional neural networks
 * **Medical Imaging Artificial Intelligence** (Spring 2021)
-    * Guest Lecturer, Teaching Assistant
-    * Presented a lecture on MR image reconstruction using deep learning methods
+-&nbsp;Guest Lecturer, Teaching Assistant
+-&nbsp;Presented a lecture on MR image reconstruction using deep learning methods
 * **Medical Artificial Intelligence** (Fall 2020)
-    * Guest Lecturer, Teaching Assistant
-    * Presented a lecture on principles of MRI and reconstruction methods for fast MRI
+-&nbsp;Guest Lecturer, Teaching Assistant
+-&nbsp;Presented a lecture on principles of MRI and reconstruction methods for fast MRI
 * **Introduction to Bioengineering for Electrical and Electronic Engineering** (Spring 2018)
-    * Teaching Assistant
+-&nbsp;Teaching Assistant
 * **Electrical and Electronic Engineering Capstone Design** (Spring 2017)
-    * Teaching Assistant
+-&nbsp;Teaching Assistant
 
 ## Honors & Awards
 * (2023) **ISMRM Summa Cum Laude**, The ISMRM 31st Annual Meeting
