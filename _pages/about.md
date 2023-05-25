@@ -21,7 +21,7 @@ I'm a postdoctoral research fellow at the [Athinoula A. Martinos Center for Biom
 -&nbsp;Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
 * **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**, (Jan. 2016 - Feb. 2022)\
 -&nbsp;Advisor: Prof. Dosik Hwang
-* **Intership** at **Philips Korea**, (Oct. 2017 - Dec. 2017)\
+* **Intership** at **Philips Korea**, (Oct. 2017 - Dec. 2017)
 * **Philips Korea & Gyrotools**, (Sep. 2017)\
 -&nbsp;Philips Pulse Programming Course
 
