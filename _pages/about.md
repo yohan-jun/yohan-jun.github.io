@@ -11,8 +11,8 @@ I'm a postdoctoral research fellow at the [Athinoula A. Martinos Center for Biom
 
 ## Education
 * **Ph.D.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2022\
-- Thesis: Model-based Deep Learning Reconstruction Methods for Fast Magnetic Resonance Imaging\
-- Scholarship: Brain Korea 21 Plus Outstanding Student Fellow Scholarship of Korea Research Foundation
+-Thesis: Model-based Deep Learning Reconstruction Methods for Fast Magnetic Resonance Imaging\
+-Scholarship: Brain Korea 21 Plus Outstanding Student Fellow Scholarship of Korea Research Foundation
 <br/><br/>
 * **B.S.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2016
     * Scholarship: National Scholarship for Science & Engineering of Korea Student Aid Foundation
