@@ -115,6 +115,9 @@ body {
   dl {
     font-size: 0.8em; // mod
   }
+  ol {
+    font-size: $type-size-6;
+  }
 
   /* paragraph indents */
   p {
