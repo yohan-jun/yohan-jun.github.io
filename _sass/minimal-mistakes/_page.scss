@@ -121,13 +121,12 @@ body {
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    $paragraph-indent: false;
-    @if $paragraph-indent == true {
-      & + p {
-        text-indent: $indent-var;
-        margin-top: -($indent-var);
-      }
-    }
+    // @if $paragraph-indent == true {
+    //   & + p {
+    //     text-indent: $indent-var;
+    //     margin-top: -($indent-var);
+    //   }
+    // }
   }
 
   a:not(.btn) {
