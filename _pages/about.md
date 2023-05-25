@@ -13,19 +13,15 @@ I'm a postdoctoral research fellow at the [Athinoula A. Martinos Center for Biom
 * **Ph.D.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2022\
 -&nbsp;Thesis: Model-based Deep Learning Reconstruction Methods for Fast Magnetic Resonance Imaging\
 -&nbsp;Scholarship: Brain Korea 21 Plus Outstanding Student Fellow Scholarship of Korea Research Foundation
-<br/><br/>
 * **B.S.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2016
 -&nbsp;Scholarship: National Scholarship for Science & Engineering of Korea Student Aid Foundation
 
 ## Research Experience
 * **Research Fellow** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Mar. 2022 - Now)\
 -&nbsp;Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
-<br/><br/>
 * **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**, (Jan. 2016 - Feb. 2022)\
 -&nbsp;Advisor: Prof. Dosik Hwang
-<br/><br/>
 * **Intership** at **Philips Korea**, (Oct. 2017 - Dec. 2017)\
-<br/><br/>
 * **Philips Korea & Gyrotools**, (Sep. 2017)\
 -&nbsp;Philips Pulse Programming Course
 
