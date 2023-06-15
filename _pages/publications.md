@@ -19,6 +19,7 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Journal Articles
 
+1. <ins>**Y Jun**</ins>, J Cho, X Wang, M Gee, PE Grant, B Bilgic\*, B Gagoski\*. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS](https://arxiv.org/abs/2302.14240). *Magnetic Resonance in Medicine*, (In press).
 1. H Shin\*, JE Park\*, <ins>**Y Jun**</ins>, T Eo, J Lee, JE Kim, DH Lee, HH Moon, SI Park, S Kim, D Hwang, HS Kim. [Deep learning referral suggestion and tumour discrimination using explainable artificial intelligence applied to multiparametric MRI](https://doi.org/10.1007/s00330-023-09710-0). *European Radiology*, 2023.
 1. <ins>**Y Jun\***</ins>, YW Park\*, H Shin\*, Y Shin, JR Lee, K Han, SS Ahn, SM Lim, D Hwang, SK Lee. [Intelligent Noninvasive Meningioma Grading with a Fully Automatic Segmentation using Interpretable Multiparametric Deep Learning](https://doi.org/10.1007/s00330-023-09590-4). *European Radiology*, 2023.
 1. T Kim\*, Y Shin\*, K Kang\*, K Kim\*, G Kim\*, Y Byeon\*, ..., JR Lee, G Son, T Kim, <ins>**Y Jun**</ins>, ..., HG Kang, D Hwang, KJ Yu. [Ultrathin crystalline-silicon-based strain gauges with deep learning algorithms for silent speech interfaces](https://doi.org/10.1038/s41467-022-33457-9). *Nature Communications*, 13:5815, 2022.
