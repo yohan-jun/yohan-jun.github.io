@@ -19,7 +19,7 @@ toc_label: "Talks"
 * **Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Multiparametric Quantitative MRI Using QALAS** (2023)\
 -&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2023
 * **Deep Subspace Reconstruction with Zero-Shot Learning for Multiparametric Quantitative MRI** (2023)\
--&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Workshop Data Sampling and Image Reconstruction, 2023
+-&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Workshop on Data Sampling and Image Reconstruction, 2023
 * **Joint Reconstruction of MR Image and Coil Sensitivity Maps using Deep Model-based Network** (2021)\
 -&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2021
 * **Deep Learning-based Automatic Detection and Segmentation of Brain Metastases Using Multi-Task Learning with 3D Black-Blood and GRE Imaging** (2021)\
