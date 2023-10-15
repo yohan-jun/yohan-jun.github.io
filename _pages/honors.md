@@ -8,6 +8,7 @@ toc_label: "Honors"
 ---
 
 ## Honors & Awards
+* (2022-2023) **IEEE Transactions on Medical Imaging (IEEE TMI)**, Distinguished Reviewer
 * (2023) **ISMRM Summa Cum Laude**, The ISMRM 31st Annual Meeting
 * (2021) **1st Rank**, Cross-Modality Domain Adaptation for Medical Image Segmentation (crossMoDA-2021 challenge)
 * (2021) **ISMRM Magna Cum Laude (1)**, The ISMRM 29th Annual Meeting
