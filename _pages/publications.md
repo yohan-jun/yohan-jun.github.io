@@ -11,8 +11,10 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Preprints
 
+1. J Cho, <ins>**Y Jun**</ins>, X Wang, C Kobayashi, B Bilgic. [Improved Multi-shot Diffusion-Weighted MRI with Zero-Shot Self-supervised Learning Reconstruction](https://arxiv.org/abs/2308.05103). *arXiv preprint arXiv:2308.05103*, 2023.
 1. <ins>**Y Jun**</ins>, Y Arefeen, J Cho, S Fujita, X Wang, PE Grant, B Gagoski, C Jaimes, MS Gee, B Bilgic. [Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Rapid Multiparametric Quantitative MRI Using 3D-QALAS](https://arxiv.org/abs/2307.01410). *arXiv preprint arXiv:2307.01410*, 2023.
 1. H Shin, H Kim, S Kim, <ins>**Y Jun**</ins>, T Eo, D Hwang. [SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation](https://arxiv.org/abs/2305.11012). *arXiv preprint arXiv:2305.11012*, 2023.
+1. SA Lee, H Kim, K Kim, KC Lee, K Lee, T Eo, <ins>**Y Jun**</ins>, D Hwang. [Deep computational microscopy via physics-informed end-to-end learning with a learned forward model](https://www.researchsquare.com/article/rs-2785592/v1). *research square preprint rs-2785592, 2023.
 1. <ins>**Y Jun**</ins>, J Cho, X Wang, M Gee, PE Grant, B Bilgic\*, B Gagoski\*. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS](https://arxiv.org/abs/2302.14240). *arXiv preprint arXiv:2302.14240*, 2023.
 1. H Shin, H Kim, S Kim, <ins>**Y Jun**</ins>, T Eo, D Hwang. [COSMOS: Cross-Modality Unsupervised Domain Adaptation for 3D Medical Image Segmentation based on Target-aware Domain Translation and Iterative Self-Training](https://arxiv.org/abs/2203.16557). *arXiv preprint arXiv:2203.16557*, 2022.
 1. H Shin, H Kim, S Kim, <ins>**Y Jun**</ins>, T Eo, D Hwang. [Self-Training Based Unsupervised Cross-Modality Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation](https://arxiv.org/abs/2109.10674). *arXiv preprint arXiv:2109.10674*, 2021.
