@@ -8,6 +8,10 @@ toc_label: "Honors"
 ---
 
 ## Honors & Awards
+* (2024) **ISMRM Junior Fellow**, The ISMRM 32nd Annual Meeting
+* (2024) **1st Place Winner, Best Oral Presentation**, The ISMRM 32nd Annual Meeting, Diffusion Study Group
+* (2024) **ISMRM Annual Meeting Program Committee (AMPC) Selected Abstract (Top 1%)**, The ISMRM 32nd Annual Meeting
+* (2024) **ISMRM Summa Cum Laude**, The ISMRM 32nd Annual Meeting
 * (2022-2023) **IEEE Transactions on Medical Imaging (IEEE TMI)**, Distinguished Reviewer
 * (2023) **ISMRM Summa Cum Laude**, The ISMRM 31st Annual Meeting
 * (2021) **1st Rank**, Cross-Modality Domain Adaptation for Medical Image Segmentation (crossMoDA-2021 challenge)
