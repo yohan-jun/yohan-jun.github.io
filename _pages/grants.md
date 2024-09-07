@@ -8,6 +8,6 @@ toc_label: "Grants"
 ---
 
 ## Grants
-* **Rapid, Motion-Robust, and Low-Gadolinium MRI for Pediatric Brain Tumors** (2024-2027)
+* **Rapid, Motion-Robust, and Low-Gadolinium MRI for Pediatric Brain Tumors** (2024-2027)\
 -&nbsp;NIH R21EB036105 (PIs: Y Jun, C Jaimes)\
 -&nbsp;Role: co-PI
