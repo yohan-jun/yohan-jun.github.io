@@ -8,6 +8,8 @@ toc_label: "Talks"
 ---
 
 ## Invited Talks
+* **Advanced neuroimaging using MRI: from quantitative MRI to diffusion MRI** (May. 2024)\
+-&nbsp;Yonsei University, School of Electrical and Electronic Engineering
 * **Self-Supervised Learning for Rapid Quantitative MRI** (May. 2023)\
 -&nbsp;Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital
 * **Deep Model-based MR Parameter Mapping Network (DOPAMINE) for Fast MR Reconstruction** (Oct. 2020)\
@@ -16,6 +18,10 @@ toc_label: "Talks"
 -&nbsp;The Catholic University of Korea, Eunpyeong St. Mary’s Hospital
 
 ## Presented Talks
+* **PRIME: Phase Reversed Interleaved Multi-Echo acquisition enables highly accelerated distortion-free diffusion MRI** (2024)\
+-&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2024
+* **Rapid Pediatric Imaging with Zero-Shot Deep Subspace Reconstruction for Multiparametric Quantitative MRI** (2024)\
+-&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2024
 * **Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Multiparametric Quantitative MRI Using QALAS** (2023)\
 -&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2023
 * **Deep Subspace Reconstruction with Zero-Shot Learning for Multiparametric Quantitative MRI** (2023)\
