@@ -12,6 +12,8 @@ main:
     url: /talks/
   - title: "Publications"
     url: /publications/
+  - title: "Grants"
+    url: /grants/
   - title: "Curriculum Vitae"
     url: /assets/CV_Yohan_Jun.pdf
   # - title: "About"
