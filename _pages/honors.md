@@ -8,7 +8,7 @@ toc_label: "Honors"
 ---
 
 ## Honors & Awards
-* (2024) **ISMRM Junior Fellow**(https://www.ismrm.org/24m/junior-fellows/), The ISMRM 32nd Annual Meeting
+* (2024) [**ISMRM Junior Fellow**](https://www.ismrm.org/24m/junior-fellows/), The ISMRM 32nd Annual Meeting
 * (2024) **1st Place Winner, Best Oral Presentation**, The ISMRM 32nd Annual Meeting, Diffusion Study Group
 * (2024) **ISMRM Annual Meeting Program Committee (AMPC) Selected Abstract (Top 1%)**, The ISMRM 32nd Annual Meeting
 * (2024) **ISMRM Summa Cum Laude**, The ISMRM 32nd Annual Meeting

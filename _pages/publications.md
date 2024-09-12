@@ -11,6 +11,7 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Preprints
 
+1. <ins>**Y Jun**</ins>, Q Liu, T Gong, J Cho, S Fujita, X Yong, SY Huang, L Ning, A Yendiki, Y Rathi, B Bilgic. [PRIME: Phase Reversed Interleaved Multi-Echo acquisition enables highly accelerated distortion-free diffusion MRI](https://arxiv.org/abs/2409.07375). *arXiv preprint arXiv:2409.07375*, 2024.
 1. X Jian, <ins>**Y Jun**</ins>, J Cho, M Gao, X Yong, B Bilgic. [NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction](https://arxiv.org/abs/2401.12004). *arXiv preprint arXiv:2401.12004*, 2024.
 1. J Cho, <ins>**Y Jun**</ins>, X Wang, C Kobayashi, B Bilgic. [Improved Multi-shot Diffusion-Weighted MRI with Zero-Shot Self-supervised Learning Reconstruction](https://arxiv.org/abs/2308.05103). *arXiv preprint arXiv:2308.05103*, 2023.
 1. <ins>**Y Jun**</ins>, Y Arefeen, J Cho, S Fujita, X Wang, PE Grant, B Gagoski, C Jaimes, MS Gee\*, B Bilgic\*. [Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Rapid Multiparametric Quantitative MRI Using 3D-QALAS](https://arxiv.org/abs/2307.01410). *arXiv preprint arXiv:2307.01410*, 2023.
