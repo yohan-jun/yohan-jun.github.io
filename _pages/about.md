@@ -17,7 +17,7 @@ I'm an instructor/faculty at the [Athinoula A. Martinos Center for Biomedical Im
 -&nbsp;Scholarship: National Scholarship for Science & Engineering of Korea Student Aid Foundation
 
 ## Research Experience
-* **Instructor** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Nov. 2024 - Now)\
+* **Instructor** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Nov. 2024 - Now)
 * **Research Fellow** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Mar. 2022 - Nov. 2024)\
 -&nbsp;Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
 * **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**, (Jan. 2016 - Feb. 2022)\
