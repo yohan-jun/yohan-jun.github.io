@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "Biography"
 ---
 
-I'm an instructor/faculty at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/), [Massachusetts General Hospital (MGH)](https://www.massgeneral.org/), and [Harvard Medical School (HMS)](https://hms.harvard.edu/) under the supervision of [Prof. Berkin Bilgic](https://martinos.org/~berkin/), [Prof. Camilo Jaimes Cobos](https://www.massgeneral.org/doctors/22460/camilo-jaimes-cobos), and [Prof. Michael Gee](https://www.massgeneral.org/doctors/17954/michael-gee).
+I'm an instructor/faculty at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/), [Massachusetts General Hospital (MGH)](https://www.massgeneral.org/), and [Harvard Medical School (HMS)](https://hms.harvard.edu/). I'm closely working with [Prof. Berkin Bilgic](https://martinos.org/~berkin/), [Prof. Camilo Jaimes Cobos](https://www.massgeneral.org/doctors/22460/camilo-jaimes-cobos), and [Prof. Michael Gee](https://www.massgeneral.org/doctors/17954/michael-gee).
 
 ## Education
 * **Ph.D.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2022\
@@ -18,7 +18,6 @@ I'm an instructor/faculty at the [Athinoula A. Martinos Center for Biomedical Im
 
 ## Research Experience
 * **Instructor** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Nov. 2024 - Now)\
--&nbsp;Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
 * **Research Fellow** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Mar. 2022 - Nov. 2024)\
 -&nbsp;Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
 * **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**, (Jan. 2016 - Feb. 2022)\

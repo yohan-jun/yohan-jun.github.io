@@ -20,7 +20,7 @@ title                    : "Yohan Jun, Ph.D."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yohan Jun"
-description              : "Research Fellow at Martinos Center for Biodmedical Engineering and Harvard Medcial School"
+description              : "Instructor/Faculty at Martinos Center, MGH, and Harvard Medcial School"
 url                      : https://yohan-jun.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yohan-jun/yohan-jun.github.io"
@@ -112,7 +112,7 @@ analytics:
 author:
   name             : "Yohan Jun"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Instructor/Faculty<br>Martinos Center, MGH, and Harvard Medcial School"
+  bio              : "Instructor/Faculty<br>Martinos Center, MGH, Harvard Medical School"
   location         : "Boston, MA"
   email            :
   links:
