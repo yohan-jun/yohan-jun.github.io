@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "Biography"
 ---
 
-I'm an instructor/faculty at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/), [Massachusetts General Hospital (MGH)](https://www.massgeneral.org/), and [Harvard Medical School (HMS)](https://hms.harvard.edu/). I'm closely working with [Prof. Berkin Bilgic](https://martinos.org/~berkin/), [Prof. Camilo Jaimes Cobos](https://www.massgeneral.org/doctors/22460/camilo-jaimes-cobos), and [Prof. Michael Gee](https://www.massgeneral.org/doctors/17954/michael-gee).
+I'm an instructor/faculty at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/investigator/yohan-jun/), [Massachusetts General Hospital (MGH)](https://researchers.mgh.harvard.edu/profile/27719203/Yohan-Jun), and [Harvard Medical School (HMS)](https://connects.catalyst.harvard.edu/Profiles/display/Person/203697). I'm closely working with [Prof. Berkin Bilgic](https://martinos.org/~berkin/), [Prof. Camilo Jaimes Cobos](https://www.massgeneral.org/doctors/22460/camilo-jaimes-cobos), and [Prof. Michael Gee](https://www.massgeneral.org/doctors/17954/michael-gee).
 
 ## Education
 * **Ph.D.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2022\
