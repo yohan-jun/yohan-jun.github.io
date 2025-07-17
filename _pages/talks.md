@@ -18,6 +18,10 @@ toc_label: "Talks"
 -&nbsp;The Catholic University of Korea, Eunpyeong St. Mary’s Hospital
 
 ## Presented Talks
+* **Efficient mesoscale multiparametric quantitative MRI using 3D-QALAS at 7T with self-supervised learning** (2025)\
+-&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2025
+* **Phase Reversed Interleaved Multi-Echo (PRIME) with phase, field map and motion navigators for highly accelerated distortion-free diffusion MRI** (2025)\
+-&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2025
 * **PRIME: Phase Reversed Interleaved Multi-Echo acquisition enables highly accelerated distortion-free diffusion MRI** (2024)\
 -&nbsp;In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting, 2024
 * **Rapid Pediatric Imaging with Zero-Shot Deep Subspace Reconstruction for Multiparametric Quantitative MRI** (2024)\
