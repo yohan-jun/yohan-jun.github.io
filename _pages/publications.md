@@ -31,7 +31,7 @@ Acquisition for highly‑efficient quantitative MRI](https://arxiv.org/abs/2508.
 
 ## Journal Articles
 
-1. SF Ferraciolli\*, <ins>**Y Jun\***</ins>, SAV Vasquez, VP Trujillo, H Griffin, S Fujita, E Milshteyn, B Bilgic, C Jaimes. [Evaluation of Synthetic Pediatric Brain MRI Using 3D‑QALAS and Zero‑DeepSub Reconstruction]. *Pediatric Radiology*, 2026, In press.
+1. SF Ferraciolli\*, <ins>**Y Jun\***</ins>, SAV Vasquez, VP Trujillo, H Griffin, S Fujita, E Milshteyn, B Bilgic, C Jaimes. [Evaluation of Synthetic Pediatric Brain MRI Using 3D‑QALAS and Zero‑DeepSub Reconstruction](https://www.researchsquare.com/article/rs-7025131/v1). *Pediatric Radiology*, 2026, In press.
 1. Y Jiang, <ins>**Y Jun**</ins>, Q Liu, W Zhong, Y Rathi, H Guo, B Bilgic. [Multishot Dual Polarity GRAPPA: Robust Nyquist Ghost Correction for multishot EPI](https://doi.org/10.1002/mrm.70233). *Magnetic Resonance in Medicine*, 2026.
 1. Y Chen, <ins>**Y Jun**</ins>, A Heydari, X Yong, J Kim, J Lee, H Liu, H Ye, B Gagoski, S Fujita\*, B Bilgic\*. [MIMOSA: Multi‑parametric Imaging using Multiple‑echoes with Optimized Simultaneous
 Acquisition for highly‑efficient quantitative MRI](https://doi.org/10.1002/mrm.70143). *Magnetic Resonance in Medicine*, 95(3):1528-1544, 2026.
