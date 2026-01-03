@@ -11,6 +11,13 @@ You can find my latest articles on my [Google Scholar](https://scholar.google.co
 
 ## Preprints
 
+1. S Li, UD Gallastegi, S Fujita, Y Chen, P Xu, Y Choi, B Gagoski, H Ye, H Liu\*, B Bilgic\*, <ins>**Y Jun\***</ins>. [Omni‑QALAS: Optimized Multiparametric Imaging for Simultaneous T1, T2 and Myelin Water Mapping](https://arxiv.org/abs/2510.13118). *arXiv preprint arXiv:2510.13118*, 2025.
+1. Q Uhl, T Pavan, J Gerold, KS Chan, <ins>**Y Jun**</ins>, S Fujita, A Bhatt, Y Ma, Q Wang, HH Lee, SY Huang, B Bilgic, I Jelescu. [Explainable AI for Accelerated Microstructure Imaging: A SHAP‑Guided Protocol on the Connectome 2.0 scanner](https://arxiv.org/abs/2509.09513). *arXiv preprint arXiv:2509.09513*, 2025.
+1. Y Chen, <ins>**Y Jun**</ins>, A Heydari, X Yong, J Kim, J Lee, H Liu, H Ye, B Gagoski, S Fujita\*, B Bilgic\*. [MIMOSA: Multi‑parametric Imaging using Multiple‑echoes with Optimized Simultaneous
+Acquisition for highly‑efficient quantitative MRI](https://arxiv.org/abs/2508.10184). *arXiv preprint arXiv:2508.10184*, 2025.
+1. Y Jiang, <ins>**Y Jun**</ins>, Q Liu, W Zhong, Y Rathi, H Guo, B Bilgic. [Multishot Dual Polarity GRAPPA: Robust Nyquist Ghost Correction for multishot EPI](https://arxiv.org/abs/2507.18273). *arXiv preprint arXiv:2507.18273*, 2025.
+1. T Çukur, SUH Dar, VA Nezhad, <ins>**Y Jun**</ins>, TH Kim, S Fujita, B Bilgic. [A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications](https://arxiv.org/abs/2507.16715). *arXiv preprint arXiv:2507.16715*, 2025.
+1. SF Ferraciolli\*, <ins>**Y Jun\***</ins>, SAV Vasquez, VP Trujillo, H Griffin, S Fujita, E Milshteyn, B Bilgic, C Jaimes. [Evaluation of Synthetic Pediatric Brain MRI Using 3D‑QALAS and Zero‑DeepSub Reconstruction](https://www.researchsquare.com/article/rs-7025131/v1). *research square preprint rs‑7025131/v1*, 2025.
 1. <ins>**Y Jun**</ins>, Q Liu, T Gong, J Cho, S Fujita, X Yong, SY Huang, L Ning, A Yendiki, Y Rathi, B Bilgic. [PRIME: Phase Reversed Interleaved Multi-Echo acquisition enables highly accelerated distortion-free diffusion MRI](https://arxiv.org/abs/2409.07375). *arXiv preprint arXiv:2409.07375*, 2024.
 1. X Jian, <ins>**Y Jun**</ins>, J Cho, M Gao, X Yong, B Bilgic. [NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction](https://arxiv.org/abs/2401.12004). *arXiv preprint arXiv:2401.12004*, 2024.
 1. J Cho, <ins>**Y Jun**</ins>, X Wang, C Kobayashi, B Bilgic. [Improved Multi-shot Diffusion-Weighted MRI with Zero-Shot Self-supervised Learning Reconstruction](https://arxiv.org/abs/2308.05103). *arXiv preprint arXiv:2308.05103*, 2023.
