@@ -31,7 +31,7 @@ Acquisition for highly‑efficient quantitative MRI](https://arxiv.org/abs/2508.
 
 ## Journal Articles
 
-1. <ins>**Y Jun**</ins>, Q Liu, T Gong, J Cho, S Fujita, X Yong, C Liao, ME Schmidt, S Nasr, C Jaimes, MS Gee, SY Huang, L Ning, A Yendiki, Y Rathi, B Bilgic. [PRIME: Phase Reversed Interleaved Multi-Echo acquisition enables highly accelerated distortion-corrected diffusion MRI](https://arxiv.org/abs/2409.07375). *Medical Image Analysis*, 2026, In press.
+1. <ins>**Y Jun**</ins>, Q Liu, T Gong, J Cho, S Fujita, X Yong, C Liao, ME Schmidt, S Nasr, C Jaimes, MS Gee, SY Huang, L Ning, A Yendiki, Y Rathi, B Bilgic. [PRIME: Phase Reversed Interleaved Multi-Echo acquisition enables highly accelerated distortion-corrected diffusion MRI](https://doi.org/10.1016/j.media.2026.104058). *Medical Image Analysis*, 111:104058, 2026.
 1. SF Ferraciolli\*, <ins>**Y Jun\***</ins>, SAV Vasquez, VP Trujillo, H Griffin, S Fujita, E Milshteyn, B Bilgic, C Jaimes. [3D-QALAS synthetic MRI with Zero-DeepSub in children: initial experience including post-contrast imaging feasibility](https://doi.org/10.1007/s00247-025-06510-0). *Pediatric Radiology*, 2026.
 1. Y Jiang, <ins>**Y Jun**</ins>, Q Liu, W Zhong, Y Rathi, H Guo, B Bilgic. [Multishot Dual Polarity GRAPPA: Robust Nyquist Ghost Correction for multishot EPI](https://doi.org/10.1002/mrm.70233). *Magnetic Resonance in Medicine*, 2026.
 1. Y Chen, <ins>**Y Jun**</ins>, A Heydari, X Yong, J Kim, J Lee, H Liu, H Ye, B Gagoski, S Fujita\*, B Bilgic\*. [MIMOSA: Multi‑parametric Imaging using Multiple‑echoes with Optimized Simultaneous
