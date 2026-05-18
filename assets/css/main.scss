@@ -7,3 +7,20 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.recent-posts-text {
+  margin: 0 0 2rem;
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.98);
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0.75rem rgba(0, 0, 0, 0.05);
+}
+
+.recent-posts-text p {
+  margin: 0 0 1rem;
+  line-height: 1.8;
+}
+
+.recent-posts-text p:last-child {
+  margin-bottom: 0;
+}
