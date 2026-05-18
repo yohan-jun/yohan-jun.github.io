@@ -8,6 +8,9 @@ toc_label: "Teaching"
 ---
 
 ## Teaching Experience
+* **The Fourth Industrial Revolution in Medical Science** (Mar. 2026)\
+-&nbsp;Guest Lecturer\
+-&nbsp;Presented a lecture on next‑generation neuroimaging, including advanced quantitative and diffusion MRI driven by AI
 * **Introduction Artificial Intelligence** (Fall 2021)\
 -&nbsp;Guest Lecturer, Teaching Assistant\
 -&nbsp;Presented a lecture on principles of deep learning and convolutional neural networks
