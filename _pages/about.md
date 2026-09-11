@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "Biography"
 ---
 
-I'm an instructor/faculty member at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/faculty/jun-yohan/), [Massachusetts General Hospital (MGH)](https://researchers.mgh.harvard.edu/profile/27719203/Yohan-Jun), and [Harvard Medical School (HMS)](https://connects.catalyst.harvard.edu/Profiles/display/Person/203697). I'm closely working with [Prof. Berkin Bilgic](https://martinos.org/~berkin/), [Prof. Camilo Jaimes Cobos](https://www.massgeneral.org/doctors/22460/camilo-jaimes-cobos), and [Prof. Michael Gee](https://www.massgeneral.org/doctors/17954/michael-gee).
+I'm an Assistant Professor at the Korea University Korea University College of Medicine, Department of Convergence Medicine. I'm closely working with [Prof. Berkin Bilgic](https://martinos.org/~berkin/), [Prof. Camilo Jaimes Cobos](https://www.massgeneral.org/doctors/22460/camilo-jaimes-cobos), and [Prof. Michael Gee](https://www.massgeneral.org/doctors/17954/michael-gee).
 
 ## Education
 * **Ph.D.** in **Electrical & Electronic Engineering**, **Yonsei University**, 2022\
@@ -17,7 +17,7 @@ I'm an instructor/faculty member at the [Athinoula A. Martinos Center for Biomed
 -&nbsp;Scholarship: National Scholarship for Science & Engineering of Korea Student Aid Foundation
 
 ## Research Experience
-* **Instructor** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Nov. 2024 - Now)
+* **Instructor** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Nov. 2024 - Aug. 2026)
 * **Research Fellow** at **Athinoula A. Martinos Center for Biomedical Imaging**, **Massachusetts General Hospital (MGH)**, and **Harvard Medical School (HMS)**, (Mar. 2022 - Nov. 2024)\
 -&nbsp;Advisor: Prof. Berkin Bilgic, Prof. Michael Gee
 * **Research Assistant** at **Medical Artificial Intelligence Lab**, **Yonsei University**, (Jan. 2016 - Feb. 2022)\
